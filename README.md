@@ -1,5 +1,7 @@
 # Virtual-Real-Integration
 
+[![japanese](https://badgen.net/badge/README/in%20日本語/red?icon=github)](./README.ja.md)
+
 This repository is for exploration of [use cases](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/readme.md) (UCs) for Real/Virtual World integration. 
 
 The first use case (UC1), [Assisted Car-Human Urban Rendezvous](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/UC1/readme.md) is based on the general ideas of the "shared ride arriving for a passenger pickup scenario" that we have talked about off and on in the meetings. 
