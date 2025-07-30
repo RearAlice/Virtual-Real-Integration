@@ -1,6 +1,6 @@
 # Virtual-Real-Integration
 
-[![japanese](https://badgen.net/badge/README/in%20日本語/red?icon=github)](./README.ja.md)
+[![japanese](https://badgen.net/badge/README/in%20日本語/red?icon=github)](/README.ja.md)
 
 This repository is for exploration of [use cases](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/readme.md) (UCs) for Real/Virtual World integration. 
 

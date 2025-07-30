@@ -1,5 +1,5 @@
 # Virtual-Real-Integration【仮想・現実統合】
-[![English README](https://badgen.net/badge/README/in%20English/blue?icon=github)](./README.md)
+[![English README](https://badgen.net/badge/README/in%20English/blue?icon=github)](/README.md)
 
 このリポジトリは、現実世界と仮想世界の統合に関する[ユースケース](https://github.com/MetaverseStandards/Virtual-Real-Integration/blob/main/src/readme.md)（UC）を探求するためのものです。
 
